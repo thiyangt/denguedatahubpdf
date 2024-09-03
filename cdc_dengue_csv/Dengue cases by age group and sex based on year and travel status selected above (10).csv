@@ -1,0 +1,11 @@
+Year,Travel status,Age group,Male,Female
+2020,All," < 1",0.3,0.3
+2020,All,1 to 10,8.1,9
+2020,All,11 to 19,15.3,12.6
+2020,All,20 to 29,8.5,7.5
+2020,All,30 to 39,4.4,5.3
+2020,All,40 to 49,4,5.5
+2020,All,50 to 59,4.8,3.8
+2020,All,60 to 69,3,2.8
+2020,All,70+,2.8,1.9
+2020,All,Unknown,0,0.1

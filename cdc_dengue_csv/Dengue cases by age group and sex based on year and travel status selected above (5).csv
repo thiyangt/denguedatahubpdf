@@ -1,0 +1,11 @@
+Year,Travel status,Age group,Male,Female
+2015,All," < 1",0.4,0.3
+2015,All,1 to 10,1.5,1.9
+2015,All,11 to 19,5.9,5.8
+2015,All,20 to 29,8.4,10
+2015,All,30 to 39,6.9,8.3
+2015,All,40 to 49,8.5,8.9
+2015,All,50 to 59,7.2,9.7
+2015,All,60 to 69,5.7,5.5
+2015,All,70+,2.9,2
+2015,All,Unknown,0,0.2
